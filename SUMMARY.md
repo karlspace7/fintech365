@@ -7,4 +7,5 @@
 * [服务器IP](fu-wu-qi-ip/README.md)
   * [智能采购](fu-wu-qi-ip/zhi-neng-cai-gou.md)
   * [智能医疗](fu-wu-qi-ip/zhi-neng-yi-liao.md)
+* [开发手册](kai-fa-shou-ce.md)
 
