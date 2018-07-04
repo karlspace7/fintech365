@@ -1,6 +1,15 @@
 # B2C
 
+测试环境
 
+| IP | 运行环境 | 应用名 | 备注 | 账户 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 10.6.82.139 | jdk8+tomcat8 | search-biz-remote |  |  |
+| 10.6.82.141 | jdk8+tomcat8 | search-front-web |  |  |
+| 10.6.82.140 | jdk8+tomcat8 | search-biz-web |  |  |
+| 10.6.82.120 | jdk8+tomcat8 | search-biz-webcluster |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 | 应用 | IP | 主机名 | 位置 | 用户名 | 密码 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
